@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajolo
 - 👀 I’m interested in learning software development
-- 🌱 I’m currently learning HTML5, CSS and Javascript 
+- 🌱 I’m currently learning Python, Flask,HTML5, CSS,Javascript. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
